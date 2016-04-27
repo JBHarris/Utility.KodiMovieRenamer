@@ -1,0 +1,5 @@
+*.suo
+Utility.KodiMovieRenamer/bin/
+Utility.KodiMovieRenamer/obj/
+packages/
+*.csproj.user
